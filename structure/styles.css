@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+*, *::before, *::after {
+    font-family: "Noto Sans", sans-serif;
+}
+
+.font-mono {
+    font-family: "Courier Prime", monospace;
+}
+
+.fsize-11 {
+    font-size: 1.1em;
+}
+
+.fsize-12 {
+    font-size: 1.2em;
+}
+
+.fsize-13 {
+    font-size: 1.3em;
+}
+
+.fsize-14 {
+    font-size: 1.4em;
+}
+
+.fsize-15 {
+    font-size: 1.5em;
+}
+
+
+.mt-0 {
+    margin-top: 0em;
+}
+
+.mt-05 {
+    margin-top: 0.5em;
+}
+
+
+.mb-05 {
+    margin-bottom: 0.5em;
+}
+
+.mb-2 {
+    margin-bottom: 2em;
+}
+
+
+.ml-2 {
+    margin-left: 2em;
+}
+
+.ml-3 {
+    margin-left: 3em;
+}
